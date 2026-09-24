@@ -1,0 +1,7 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "AP2112K-3.3TRG1") (type "KiCad") (uri "${KIPRJMOD}/SignalSniffer_sym/AP2112K-3.3TRG1.kicad_sym") (options "") (descr ""))
+	(lib (name "BQ24075QRGTRQ1") (type "KiCad") (uri "${KIPRJMOD}/SignalSniffer_sym/BQ24075QRGTRQ1.kicad_sym") (options "") (descr ""))
+	(lib (name "MEM1052-00-283-01-A") (type "KiCad") (uri "${KIPRJMOD}/SignalSniffer_sym/MEM1052-00-283-01-A.kicad_sym") (options "") (descr ""))
+	(lib (name "TLV9001QDCKRQ1") (type "KiCad") (uri "${KIPRJMOD}/SignalSniffer_sym/TLV9001QDCKRQ1.kicad_sym") (options "") (descr ""))
+)
